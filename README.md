@@ -1,2 +1,3 @@
 # best-repo-ever
-Training
+This is my Training document
+I am trying to figure out the add and commit
