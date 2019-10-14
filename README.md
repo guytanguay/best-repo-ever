@@ -1,2 +1,2 @@
 # best-repo-ever
-Training
+This is my Training document
